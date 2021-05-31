@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Nhom9/QLTV/src/bkapt/com/ui/QuanLySinhVien.java</file>
+            <file>file:/D:/Nhom9/QLTV/src/bkapt/com/ui/ThongKeUI.java</file>
+            <file>file:/D:/Nhom9/QLTV/src/bkapt/com/dao/TheLoaiSachDAO.java</file>
+            <file>file:/D:/Nhom9/QLTV/src/bkapt/com/ui/QuanLyTacGia.java</file>
+            <file>file:/D:/Nhom9/QLTV/src/bkapt/com/ui/QuanLyViPham.java</file>
+            <file>file:/D:/Nhom9/QLTV/src/bkapt/com/dao/SachDAO.java</file>
+            <file>file:/D:/Nhom9/QLTV/src/bkapt/com/model/TheLoaiSach.java</file>
+            <file>file:/D:/Nhom9/QLTV/src/bkapt/com/ui/QuanLyLop.java</file>
+            <file>file:/D:/Nhom9/QLTV/src/bkapt/com/ui/QuanLyNXB.java</file>
+            <file>file:/D:/Nhom9/QLTV/src/bkapt/com/dao/SachPhieuMuonDao.java</file>
+            <file>file:/D:/Nhom9/QLTV/src/bkapt/com/ui/QuanLyTheLoaiSach.java</file>
+            <file>file:/D:/Nhom9/QLTV/src/bkapt/com/model/NXB.java</file>
+            <file>file:/D:/Nhom9/QLTV/src/bkapt/com/dao/ThongKeDAO.java</file>
+            <file>file:/D:/Nhom9/QLTV/src/bkapt/com/ui/QuanLyPhieuMuon.java</file>
+            <file>file:/D:/Nhom9/QLTV/src/bkapt/com/model/NhaXB.java</file>
+            <file>file:/D:/Nhom9/QLTV/src/bkapt/com/dao/TacGiaDAO.java</file>
+            <file>file:/D:/Nhom9/QLTV/src/bkapt/com/ui/QuanLySach.java</file>
+            <file>file:/D:/Nhom9/QLTV/src/bkapt/com/model/TacGia.java</file>
+            <file>file:/D:/Nhom9/QLTV/src/bkapt/com/dao/PhieuMuonDAO.java</file>
+            <file>file:/D:/Nhom9/QLTV/src/bkapt/com/model/SinhVien.java</file>
+            <file>file:/D:/Nhom9/QLTV/src/bkapt/com/dao/NXBDAO.java</file>
+            <file>file:/D:/Nhom9/QLTV/src/bkapt/com/dao/NhaXBDAO.java</file>
+            <file>file:/D:/Nhom9/QLTV/src/bkapt/com/dao/SinhVienDAO.java</file>
+            <file>file:/D:/Nhom9/QLTV/src/bkapt/com/helper/Connect.java</file>
+            <file>file:/D:/Nhom9/QLTV/src/bkapt/com/ui/SinhVienUI.java</file>
+            <file>file:/D:/Nhom9/QLTV/src/bkapt/com/ui/QuanLy.java</file>
+            <file>file:/D:/Nhom9/QLTV/src/bkapt/com/ui/CaiDat.java</file>
+        </group>
+    </open-files>
+</project-private>
